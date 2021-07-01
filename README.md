@@ -1,1 +1,1 @@
-# Assignment-1-calculator
+# Assignment-2 Lottery
